@@ -14,7 +14,7 @@ Create your own control panels, assign morphs to intuitive drag areas, organize 
 Click the image above to watch the full demonstration of **Visual Morph Controller** in action.
 
 [![Krita 3D Mesh Painter - Demo](https://img.youtube.com/vi/1n_KJqrgxhw/maxresdefault.jpg)](https://youtu.be/1n_KJqrgxhw)
-[**Buy / Get Krita 3D Mesh Painter**](https://tijerinart.itch.io/krita-3d-projection-painter)
+[**Buy Visual Morph Controller**](https://marketplace.reallusion.com/visual-morph-controller)
 ---
 
 ## Why Visual Morph Controller?
