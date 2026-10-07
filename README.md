@@ -7,8 +7,14 @@
 Instead of working through long lists of morph sliders, you can build your own visual control layout using buttons positioned over a custom character control sheet, facial reference, or any other background image.
 
 Create your own control panels, assign morphs to intuitive drag areas, organize different setups into profiles, and control multiple morphs from a single visual interface.
+## Demo Video
 
-https://www.youtube.com/watch?v=_vtr6yKAgnM
+[![Visual Morph Controller - Demo](https://img.youtube.com/vi/_vtr6yKAgnM/maxresdefault.jpg)](https://youtu.be/_vtr6yKAgnM)
+
+Click the image above to watch the full demonstration of **Visual Morph Controller** in action.
+
+[![Krita 3D Mesh Painter - Demo](https://img.youtube.com/vi/1n_KJqrgxhw/maxresdefault.jpg)](https://youtu.be/1n_KJqrgxhw)
+[**Buy / Get Krita 3D Mesh Painter**](https://tijerinart.itch.io/krita-3d-projection-painter)
 ---
 
 ## Why Visual Morph Controller?
