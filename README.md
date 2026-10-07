@@ -12,8 +12,6 @@ Create your own control panels, assign morphs to intuitive drag areas, organize 
 [![Visual Morph Controller - Demo](https://img.youtube.com/vi/_vtr6yKAgnM/maxresdefault.jpg)](https://youtu.be/_vtr6yKAgnM)
 
 Click the image above to watch the full demonstration of **Visual Morph Controller** in action.
-
-[![Krita 3D Mesh Painter - Demo](https://img.youtube.com/vi/1n_KJqrgxhw/maxresdefault.jpg)](https://youtu.be/1n_KJqrgxhw)
 [**Buy Visual Morph Controller**](https://marketplace.reallusion.com/visual-morph-controller)
 ---
 
