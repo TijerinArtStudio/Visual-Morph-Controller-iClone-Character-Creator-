@@ -8,6 +8,7 @@ Instead of working through long lists of morph sliders, you can build your own v
 
 Create your own control panels, assign morphs to intuitive drag areas, organize different setups into profiles, and control multiple morphs from a single visual interface.
 
+https://www.youtube.com/watch?v=_vtr6yKAgnM
 ---
 
 ## Why Visual Morph Controller?
